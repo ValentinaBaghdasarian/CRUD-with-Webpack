@@ -1,0 +1,29 @@
+{
+  "todos": [
+    {
+      "title": "Learn JavaScript",
+      "isComplete": false,
+      "id": 1
+    },
+    {
+      "title": "Learn TypeScript",
+      "isComplete": false,
+      "id": 2
+    },
+    {
+      "title": "Learn Async/Await",
+      "isComplete": false,
+      "id": 3
+    },
+    {
+      "title": "Learn Vue.js",
+      "isComplete": true,
+      "id": 4
+    },
+    {
+      "title": "Learn CSS",
+      "isComplete": false,
+      "id": 5
+    }
+  ]
+}
